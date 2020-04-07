@@ -1,13 +1,13 @@
-.sample1 {  
-    font-size: 20px;
-    font-family: "serif";
-	
+
+
+body {
+    background-color: white;
+}
+p {
+	  text-align:center;
+    color: black;
 }
 
-p {
-  text-align:center;
-	font-color: "black";
-}
 
 .sample2 {
     font-size: 15px;
@@ -18,4 +18,10 @@ p {
 
 .photo1 {
  text-align:center;
+}
+
+.sample1 {  
+    font-size: 20px;
+    font-family: "serif";
+	
 }
