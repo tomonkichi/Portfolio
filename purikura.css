@@ -6,10 +6,11 @@
 
 p {
   text-align:center;
+	font-color: "black";
 }
 
 .sample2 {
-    font-size: 20px;
+    font-size: 15px;
 　　font-style:italic;
 
 	font-family: "Hiragino Kaku Gothic ProN";
